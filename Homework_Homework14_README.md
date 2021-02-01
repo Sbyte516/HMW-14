@@ -87,3 +87,10 @@ For training, use at least 10 estimators for both models.
 - - -
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+
+Notes:
+Window functions are majorly used in finding the trends within the data graphically by smoothing the curve.
+
+Window Rolling Mean (Moving Average) The moving average calculation creates an updated average value for each row based on the window we specify. The calculation is also called a “rolling mean” because it's calculating an average of values within a specified range for each row as you go along the DataFrame.
